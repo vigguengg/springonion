@@ -9,6 +9,6 @@ stringData:
   client-authentication-method: client_secret_basic
   authorization-grant-types: client_credentials
   scope: bid
-  client-id: insert-client-id
-  client-secret: insert-client-secret
-  issuer-uri: insert-issuer-uri
+  client-id: sta_orionspring
+  client-secret: f8cdc519-829f-46a7-8e19-65dbb7745023
+  issuer-uri:  https://login.sso.az.run.withtanzu.com
